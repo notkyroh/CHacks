@@ -1,0 +1,12 @@
+name: CHacks
+version: '1.1'
+main: me.kyro.Main
+api-version: 1.16
+commands:
+  controllo:
+    description: "Controllo Hack"
+  setposizione:
+    description: "Imposta la posizione"
+  ch:
+    description: "Lista dei comandi disponibili"
+
