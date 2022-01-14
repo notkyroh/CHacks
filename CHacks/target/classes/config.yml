@@ -1,0 +1,29 @@
+
+# Permissions
+Permesso-Controllo: "ch.control"
+Permesso-Set-Posizione: "ch.location"
+Permesso-Reload: "ch.reload"
+
+# Insert between "" the command that you want to execute when a user admit
+# Use %player% to get the player's name
+# Admission
+Command-Console-Ban: "ban %player% 7d Ammissione Hack"
+
+# Tempban Staff
+Command-Staff-Tempban: "tempban %player% 7d Ammissione Hack"
+
+# Permaban Staff
+Command-Staff-Permaban: "ban %player% (Motivo)"
+
+
+# Use /setposition in game
+Posizione-Controllo:
+  world: "world"
+  x: 0
+  y: 0
+  z: 0
+
+# Messages
+Prefix: "CHacks» "
+
+

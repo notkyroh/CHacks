@@ -1,0 +1,12 @@
+name: CHacks
+version: '1.2'
+main: me.kyro.Core.CHacksCore
+api-version: 1.16
+commands:
+  control:
+    description: "Screenshare"
+  setposition:
+    description: "Set the location"
+  ch:
+    description: "List of available commands"
+
